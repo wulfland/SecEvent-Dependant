@@ -1,4 +1,3 @@
-# Publish container to AKS Cluster
 name: Publish Docker Image
 
 on: 
